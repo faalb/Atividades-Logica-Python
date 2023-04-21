@@ -35,12 +35,12 @@ Escreva um algoritmo que leia um valor para uma variável N de 1 a 10 e calcule 
 ## Ex08 - Sequência em P.A.
 Escreva um algoritmo que leia um valor inicial A
 de uma sequência em P.A. e a razão R dessa sequência. O algoritmo deve imprimir os 10 primeiros termos da sequência.
-👉 ex08.py
+👉 [ex08.py](https://github.com/faalb/Atividades-Logica-Python/blob/novos-arquivos/ex08.py)
 
-Ex09 - Sequência em P.G.
+## Ex09 - Sequência em P.G.
 Escreva um algoritmo que leia um valor inicial A de uma sequência em P.G. e a razão R dessa sequência. O algoritmo deve imprimir os 10 primeiros termos da sequência.
-👉 ex09.py
+👉 [ex09.py](https://github.com/faalb/Atividades-Logica-Python/blob/novos-arquivos/ex09.py)
 
-Ex10 - Fatorial
+## Ex10 - Fatorial
 Escreva um algoritmo que calcule o fatorial de um número informado pelo usuário. O fatorial de um número n é dado pela multiplicação de todos os números naturais menores ou iguais a n. Exemplo: fatorial de 5 = 5 x 4 x 3 x 2 x 1 = 120.
-👉 ex10.py
+👉 [ex10.py](https://github.com/faalb/Atividades-Logica-Python/blob/novos-arquivos/ex10.py)
