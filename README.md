@@ -80,7 +80,7 @@ Este repositório contém os códigos em Python para resolver os seguintes exerc
 - [Exercício 25](https://www.beecrowd.com.br/repository/UOJ_1015.html)
   - [Código no GitHub](https://github.com/faalb/Atividades-Logica-Python/blob/novos-arquivos/ex25.py)
 - [Exercício 26](https://www.beecrowd.com.br/repository/UOJ_1038.html)
-  - [Código no GitHub (https://github.com/faalb/Atividades-Logica-Python/blob/novos-arquivos/ex26.py)
+  - [Código no GitHub](https://github.com/faalb/Atividades-Logica-Python/blob/novos-arquivos/ex26.py)
 - [Exercício 27](https://www.beecrowd.com.br/repository/UOJ_1040.html)
   - [Código no GitHub](https://github.com/faalb/Atividades-Logica-Python/blob/novos-arquivos/ex27.py)
 - [Exercício 28](https://www.beecrowd.com.br/repository/UOJ_1041.html)
