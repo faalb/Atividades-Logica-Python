@@ -54,7 +54,7 @@ Aqui estão os exercícios com seus respectivos títulos e links para as questõ
 - [Exercício 11](https://www.beecrowd.com.br/repository/UOJ_1001.html) - Extremamente Básico
   - [Código no GitHub](https://github.com/faalb/Atividades-Logica-Python/blob/novos-arquivos/ex11.py)
 - [Exercício 12](https://www.beecrowd.com.br/repository/UOJ_1002.html) - Área do Círculo
-  - [Código no GitHub - Área do Círculo](https://github.com/faalb/Atividades-Logica-Python/blob/novos-arquivos/ex12.py)
+  - [Código no GitHub](https://github.com/faalb/Atividades-Logica-Python/blob/novos-arquivos/ex12.py)
 - [Exercício 13](https://www.beecrowd.com.br/repository/UOJ_1003.html) - Soma Simples
   - [Código no GitHub](https://github.com/faalb/Atividades-Logica-Python/blob/novos-arquivos/ex13.py)
 - [Exercício 14](https://www.beecrowd.com.br/repository/UOJ_1004.html) - Produto Simples
