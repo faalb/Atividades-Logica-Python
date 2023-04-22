@@ -95,7 +95,7 @@ Aqui estão os exercícios com seus respectivos títulos e links para as questõ
   - [Código no GitHub](https://github.com/faalb/Atividades-Logica-Python/blob/novos-arquivos/ex31.py)
 - [Exercício 32](https://www.beecrowd.com.br/repository/UOJ_1049.html) - Animal
   - [Código no GitHub](https://github.com/faalb/Atividades-Logica-Python/blob/novos-arquivos/ex32.py)
-- [Exercício 33](https://www.beecrowd.com.br/repository/UOJ_1051.html) - Imposto de Rende
+- [Exercício 33](https://www.beecrowd.com.br/repository/UOJ_1051.html) - Imposto de Renda
   - [Código no GitHub](https://github.com/faalb/Atividades-Logica-Python/blob/novos-arquivos/ex33.py)
 - [Exercício 34](https://www.beecrowd.com.br/repository/UOJ_1059.html) - Números Pares
   - [Código no GitHub](https://github.com/faalb/Atividades-Logica-Python/blob/novos-arquivos/ex34.py)
