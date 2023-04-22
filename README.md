@@ -51,43 +51,43 @@ Este repositório contém os códigos em Python para resolver os seguintes exerc
 
 Aqui estão os exercícios com seus respectivos títulos e links para as questões e códigos no GitHub:
 
-- [Exercício 11](https://www.beecrowd.com.br/repository/UOJ_1001.html) 
+- [Exercício 11](https://www.beecrowd.com.br/repository/UOJ_1001.html) - Extremamente Básico
   - [Código no GitHub](https://github.com/faalb/Atividades-Logica-Python/blob/novos-arquivos/ex11.py)
-- [Exercício 12](https://www.beecrowd.com.br/repository/UOJ_1002.html) 
+- [Exercício 12](https://www.beecrowd.com.br/repository/UOJ_1002.html) - Área do Círculo
   - [Código no GitHub - Área do Círculo](https://github.com/faalb/Atividades-Logica-Python/blob/novos-arquivos/ex12.py)
-- [Exercício 13](https://www.beecrowd.com.br/repository/UOJ_1003.html) 
+- [Exercício 13](https://www.beecrowd.com.br/repository/UOJ_1003.html) - Soma Simples
   - [Código no GitHub](https://github.com/faalb/Atividades-Logica-Python/blob/novos-arquivos/ex13.py)
-- [Exercício 14](https://www.beecrowd.com.br/repository/UOJ_1004.html) 
+- [Exercício 14](https://www.beecrowd.com.br/repository/UOJ_1004.html) - Produto Simples
   - [Código no GitHub](https://github.com/faalb/Atividades-Logica-Python/blob/novos-arquivos/ex14.py)
-- [Exercício 15](https://www.beecrowd.com.br/repository/UOJ_1005.html)
+- [Exercício 15](https://www.beecrowd.com.br/repository/UOJ_1005.html) - Média 1
   - [Código no GitHub](https://github.com/faalb/Atividades-Logica-Python/blob/novos-arquivos/ex15.py)
-- [Exercício 16](https://www.beecrowd.com.br/repository/UOJ_1006.html) 
+- [Exercício 16](https://www.beecrowd.com.br/repository/UOJ_1006.html) - Média 2
   - [Código no GitHub](https://github.com/faalb/Atividades-Logica-Python/blob/novos-arquivos/ex16.py)
-- [Exercício 17](https://www.beecrowd.com.br/repository/UOJ_1007.html) 
+- [Exercício 17](https://www.beecrowd.com.br/repository/UOJ_1007.html) - Diferença
   - [Código no GitHub](https://github.com/faalb/Atividades-Logica-Python/blob/novos-arquivos/ex17.py)
-- [Exercício 18](https://www.beecrowd.com.br/repository/UOJ_1008.html) 
+- [Exercício 18](https://www.beecrowd.com.br/repository/UOJ_1008.html) - Salário
   - [Código no GitHub](https://github.com/faalb/Atividades-Logica-Python/blob/novos-arquivos/ex18.py)
-- [Exercício 19](https://www.beecrowd.com.br/repository/UOJ_1009.html) 
+- [Exercício 19](https://www.beecrowd.com.br/repository/UOJ_1009.html) -
   - [Código no GitHub](https://github.com/faalb/Atividades-Logica-Python/blob/novos-arquivos/ex19.py)
-- [Exercício 20](https://www.beecrowd.com.br/repository/UOJ_1010.html) 
+- [Exercício 20](https://www.beecrowd.com.br/repository/UOJ_1010.html) -
   - [Código no GitHub](https://github.com/faalb/Atividades-Logica-Python/blob/novos-arquivos/ex20.py)
-- [Exercício 21](https://www.beecrowd.com.br/repository/UOJ_1011.html)
+- [Exercício 21](https://www.beecrowd.com.br/repository/UOJ_1011.html) -
   - [Código no GitHub](https://github.com/faalb/Atividades-Logica-Python/blob/novos-arquivos/ex21.py)
-- [Exercício 22](https://www.beecrowd.com.br/repository/UOJ_1012.html)
+- [Exercício 22](https://www.beecrowd.com.br/repository/UOJ_1012.html) -
   - [Código no GitHub](https://github.com/faalb/Atividades-Logica-Python/blob/novos-arquivos/ex22.py)
-- [Exercício 23](https://www.beecrowd.com.br/repository/UOJ_1013.html)
+- [Exercício 23](https://www.beecrowd.com.br/repository/UOJ_1013.html) -
   - [Código no GitHub](https://github.com/faalb/Atividades-Logica-Python/blob/novos-arquivos/ex23.py)
-- [Exercício 24](https://www.beecrowd.com.br/repository/UOJ_1014.html)
+- [Exercício 24](https://www.beecrowd.com.br/repository/UOJ_1014.html) -
   - [Código no GitHub](https://github.com/faalb/Atividades-Logica-Python/blob/novos-arquivos/ex24.py)
-- [Exercício 25](https://www.beecrowd.com.br/repository/UOJ_1015.html)
+- [Exercício 25](https://www.beecrowd.com.br/repository/UOJ_1015.html) - 
   - [Código no GitHub](https://github.com/faalb/Atividades-Logica-Python/blob/novos-arquivos/ex25.py)
-- [Exercício 26](https://www.beecrowd.com.br/repository/UOJ_1038.html)
+- [Exercício 26](https://www.beecrowd.com.br/repository/UOJ_1038.html) - 
   - [Código no GitHub](https://github.com/faalb/Atividades-Logica-Python/blob/novos-arquivos/ex26.py)
-- [Exercício 27](https://www.beecrowd.com.br/repository/UOJ_1040.html)
+- [Exercício 27](https://www.beecrowd.com.br/repository/UOJ_1040.html) - 
   - [Código no GitHub](https://github.com/faalb/Atividades-Logica-Python/blob/novos-arquivos/ex27.py)
-- [Exercício 28](https://www.beecrowd.com.br/repository/UOJ_1041.html)
+- [Exercício 28](https://www.beecrowd.com.br/repository/UOJ_1041.html) - 
   - [Código no GitHub](https://github.com/faalb/Atividades-Logica-Python/blob/novos-arquivos/ex28.py)
-- [Exercício 29](https://www.beecrowd.com.br/repository/UOJ_1043.html)
+- [Exercício 29](https://www.beecrowd.com.br/repository/UOJ_1043.html) - 
   - [Código no GitHub](https://github.com/faalb/Atividades-Logica-Python/blob/novos-arquivos/ex29.py)
-- [Exercício 30](https://www.beecrowd.com.br/repository/UOJ_1044.html)
+- [Exercício 30](https://www.beecrowd.com.br/repository/UOJ_1044.html) -
   - [Código no GitHub](https://github.com/faalb/Atividades-Logica-Python/blob/novos-arquivos/ex30.py)
