@@ -51,7 +51,7 @@ Este repositório contém os códigos em Python para resolver os seguintes exerc
 
 Aqui estão os exercícios com seus respectivos títulos e links para as questões e códigos no GitHub:
 
-- [Exercício 11](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001) 
+- [Exercício 11](https://www.beecrowd.com.br/repository/UOJ_1001.html) 
   - [Código no GitHub](https://github.com/faalb/Atividades-Logica-Python/blob/novos-arquivos/ex11.py)
 - [Exercício 12](https://www.beecrowd.com.br/repository/UOJ_1002.html) 
   - [Código no GitHub - Área do Círculo](https://github.com/faalb/Atividades-Logica-Python/blob/novos-arquivos/ex12.py)
