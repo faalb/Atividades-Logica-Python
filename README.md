@@ -51,22 +51,22 @@ Este repositório contém os códigos em Python para resolver os seguintes exerc
 
 - [Exercício 11](https://www.beecrowd.com.br/repository/UOJ_1001.html) - Soma Simples
   - [Código no GitHub](https://github.com/faalb/Atividades-Logica-Python/blob/novos-arquivos/ex11.py)
-- [Exercício 12](https://www.beecrowd.com.br/repository/UOJ_1002.html): Área do Círculo
+- [Exercício 12](https://www.beecrowd.com.br/repository/UOJ_1002.html) - Área do Círculo
   - [Código no GitHub](https://github.com/faalb/Atividades-Logica-Python/blob/novos-arquivos/ex12.py)
-- [Exercício 13](https://www.beecrowd.com.br/repository/UOJ_1003.html): Área do Trapézio
+- [Exercício 13](https://www.beecrowd.com.br/repository/UOJ_1003.html) - Área do Trapézio
   - [Código no GitHub](https://github.com/faalb/Atividades-Logica-Python/blob/novos-arquivos/ex13.py)
-- [Exercício 14](https://www.beecrowd.com.br/repository/UOJ_1004.html): Produto Simples
+- [Exercício 14](https://www.beecrowd.com.br/repository/UOJ_1004.html) - Produto Simples
   - [Código no GitHub](https://github.com/faalb/Atividades-Logica-Python/blob/novos-arquivos/ex14.py)
-- [Exercício 15](https://www.beecrowd.com.br/repository/UOJ_1005.html): Distância Entre Dois Pontos
+- [Exercício 15](https://www.beecrowd.com.br/repository/UOJ_1005.html) - Distância Entre Dois Pontos
   - [Código no GitHub](https://github.com/faalb/Atividades-Logica-Python/blob/novos-arquivos/ex15.py)
-- [Exercício 16](https://www.beecrowd.com.br/repository/UOJ_1006.html): Diferença
+- [Exercício 16](https://www.beecrowd.com.br/repository/UOJ_1006.html) - Diferença
   - [Código no GitHub](https://github.com/faalb/Atividades-Logica-Python/blob/novos-arquivos/ex16.py)
-- [Exercício 17](https://www.beecrowd.com.br/repository/UOJ_1007.html): Gasto de Combustível
+- [Exercício 17](https://www.beecrowd.com.br/repository/UOJ_1007.html) - Gasto de Combustível
   - [Código no GitHub](https://github.com/faalb/Atividades-Logica-Python/blob/novos-arquivos/ex17.py)
-- [Exercício 18](https://www.beecrowd.com.br/repository/UOJ_1008.html): Salário com Bônus
+- [Exercício 18](https://www.beecrowd.com.br/repository/UOJ_1008.html) - Salário com Bônus
   - [Código no GitHub](https://github.com/faalb/Atividades-Logica-Python/blob/novos-arquivos/ex18.py)
-- [Exercício 19](https://www.beecrowd.com.br/repository/UOJ_1009.html): Cálculo de Salário
+- [Exercício 19](https://www.beecrowd.com.br/repository/UOJ_1009.html) - Cálculo de Salário
   - [Código no GitHub](https://github.com/faalb/Atividades-Logica-Python/blob/novos-arquivos/ex19.py)
-- [Exercício 20](https://www.beecrowd.com.br/repository/UOJ_1010.html): Cálculo Simples
+- [Exercício 20](https://www.beecrowd.com.br/repository/UOJ_1010.html) - Cálculo Simples
   - [Código no GitHub](https://github.com/faalb/Atividades-Logica-Python/blob/novos-arquivos/ex20.py)
 
