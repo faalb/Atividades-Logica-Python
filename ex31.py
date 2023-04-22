@@ -22,7 +22,6 @@ if __name__ == '__main__':
         reajuste = novo_salario - salario
         percentual = 4
 
-    # exibição dos resultados
     print("Novo salario: {:.2f}".format(novo_salario))
     print("Reajuste ganho: {:.2f}".format(reajuste))
     print("Em percentual: {} %".format(percentual))
