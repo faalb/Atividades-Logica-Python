@@ -91,3 +91,13 @@ Aqui estão os exercícios com seus respectivos títulos e links para as questõ
   - [Código no GitHub](https://github.com/faalb/Atividades-Logica-Python/blob/novos-arquivos/ex29.py)
 - [Exercício 30](https://www.beecrowd.com.br/repository/UOJ_1044.html) - Múltiplos
   - [Código no GitHub](https://github.com/faalb/Atividades-Logica-Python/blob/novos-arquivos/ex30.py)
+- [Exercício 31](https://www.beecrowd.com.br/repository/UOJ_1048.html) - Aumento de Salário
+  - [Código no GitHub](https://github.com/faalb/Atividades-Logica-Python/blob/novos-arquivos/ex31.py)
+- [Exercício 32](https://www.beecrowd.com.br/repository/UOJ_1049.html) - Animal
+  - [Código no GitHub](https://github.com/faalb/Atividades-Logica-Python/blob/novos-arquivos/ex32.py)
+- [Exercício 33](https://www.beecrowd.com.br/repository/UOJ_1051.html) - Resto 2
+  - [Código no GitHub](https://github.com/faalb/Atividades-Logica-Python/blob/novos-arquivos/ex33.py)
+- [Exercício 34](https://www.beecrowd.com.br/repository/UOJ_1059.html) - Números Pares
+  - [Código no GitHub](https://github.com/faalb/Atividades-Logica-Python/blob/novos-arquivos/ex34.py)
+- [Exercício 35](https://www.beecrowd.com.br/repository/UOJ_1067.html) - Pares, Ímpares, Positivos e Negativos
+  - [Código no GitHub](https://github.com/faalb/Atividades-Logica-Python/blob/novos-arquivos/ex35.py)
