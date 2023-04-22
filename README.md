@@ -44,3 +44,29 @@ Escreva um algoritmo que leia um valor inicial A de uma sequência em P.G. e a r
 ## Ex10 - Fatorial
 Escreva um algoritmo que calcule o fatorial de um número informado pelo usuário. O fatorial de um número n é dado pela multiplicação de todos os números naturais menores ou iguais a n. Exemplo: fatorial de 5 = 5 x 4 x 3 x 2 x 1 = 120.
 👉 [ex10.py](https://github.com/faalb/Atividades-Logica-Python/blob/novos-arquivos/ex10.py)
+
+# Outros exercícios
+
+Este repositório contém os códigos em Python para resolver os seguintes exercícios de lógica adicionais:
+
+- [Exercício 11](https://www.beecrowd.com.br/repository/UOJ_1001.html): Soma Simples
+  - [Código no GitHub](https://github.com/faalb/Atividades-Logica-Python/blob/novos-arquivos/ex11.py)
+- [Exercício 12](https://www.beecrowd.com.br/repository/UOJ_1002.html): Área do Círculo
+  - [Código no GitHub](https://github.com/faalb/Atividades-Logica-Python/blob/novos-arquivos/ex12.py)
+- [Exercício 13](https://www.beecrowd.com.br/repository/UOJ_1003.html): Área do Trapézio
+  - [Código no GitHub](https://github.com/faalb/Atividades-Logica-Python/blob/novos-arquivos/ex13.py)
+- [Exercício 14](https://www.beecrowd.com.br/repository/UOJ_1004.html): Produto Simples
+  - [Código no GitHub](https://github.com/faalb/Atividades-Logica-Python/blob/novos-arquivos/ex14.py)
+- [Exercício 15](https://www.beecrowd.com.br/repository/UOJ_1005.html): Distância Entre Dois Pontos
+  - [Código no GitHub](https://github.com/faalb/Atividades-Logica-Python/blob/novos-arquivos/ex15.py)
+- [Exercício 16](https://www.beecrowd.com.br/repository/UOJ_1006.html): Diferença
+  - [Código no GitHub](https://github.com/faalb/Atividades-Logica-Python/blob/novos-arquivos/ex16.py)
+- [Exercício 17](https://www.beecrowd.com.br/repository/UOJ_1007.html): Gasto de Combustível
+  - [Código no GitHub](https://github.com/faalb/Atividades-Logica-Python/blob/novos-arquivos/ex17.py)
+- [Exercício 18](https://www.beecrowd.com.br/repository/UOJ_1008.html): Salário com Bônus
+  - [Código no GitHub](https://github.com/faalb/Atividades-Logica-Python/blob/novos-arquivos/ex18.py)
+- [Exercício 19](https://www.beecrowd.com.br/repository/UOJ_1009.html): Cálculo de Salário
+  - [Código no GitHub](https://github.com/faalb/Atividades-Logica-Python/blob/novos-arquivos/ex19.py)
+- [Exercício 20](https://www.beecrowd.com.br/repository/UOJ_1010.html): Cálculo Simples
+  - [Código no GitHub](https://github.com/faalb/Atividades-Logica-Python/blob/novos-arquivos/ex20.py)
+
