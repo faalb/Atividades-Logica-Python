@@ -49,7 +49,7 @@ Escreva um algoritmo que calcule o fatorial de um número informado pelo usuári
 
 Este repositório contém os códigos em Python para resolver os seguintes exercícios de lógica adicionais:
 
-- [Exercício 11](https://www.beecrowd.com.br/repository/UOJ_1001.html): Soma Simples
+- [Exercício 11](https://www.beecrowd.com.br/repository/UOJ_1001.html) - Soma Simples
   - [Código no GitHub](https://github.com/faalb/Atividades-Logica-Python/blob/novos-arquivos/ex11.py)
 - [Exercício 12](https://www.beecrowd.com.br/repository/UOJ_1002.html): Área do Círculo
   - [Código no GitHub](https://github.com/faalb/Atividades-Logica-Python/blob/novos-arquivos/ex12.py)
